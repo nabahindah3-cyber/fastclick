@@ -1,4 +1,4 @@
-# FastClick #
+https://github.com/nabahindah3-cyber/Nabahinda-Harimah/commit/15a820fab0615ee9e00c5d031036825884bfc556# FastClick #
 
 FastClick is a simple, easy-to-use library for eliminating the 300ms delay between a physical tap and the firing of a `click` event on mobile browsers. The aim is to make your application feel less laggy and more responsive while avoiding any interference with your current logic.
 
